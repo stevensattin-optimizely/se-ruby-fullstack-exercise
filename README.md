@@ -91,10 +91,11 @@ When your application is working, follow the steps below to create a branch and 
 
 ** Submit your app **
 
-1. In your app directory from the terminal enter ```git add .```
-2. ```git checkout -b [your branch name]``` NOTE: branch names may not contain any spaces ex "andreas/my_branch-name" is a valid name
-2. ```git commit -m [give your commit a name]``` commit messages may contain spaces
-3. ```git push origin [the branch name you created in step 2]```
+1. IMPORTANT in ```server.rb``` remove the lines containing the account SID and auth token!!!
+2. In your app directory from the terminal enter ```git add .```
+3. ```git checkout -b [your branch name]``` NOTE: branch names may not contain any spaces ex "andreas/my_branch-name" is a valid name
+4. ```git commit -m [give your commit a name]``` commit messages may contain spaces
+5. ```git push origin [the branch name you created in step 2]```
 
 This will push all of your changes to the master branch of your forked repository.
 
