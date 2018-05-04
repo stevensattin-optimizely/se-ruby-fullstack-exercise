@@ -1,10 +1,13 @@
 # SE Full Stack Sample Implementation Twilio App
---- and open the prothis guide you will be tasked with implementing the Optimizely Ruby SDK, and using a Full Stac"
+--- 
 
-The sample application here is all setup so that all you need to do is reserve a phone number in Twilio, enter your credentials, and implement Optimizely.
+In this exercise you will be tasked with implementing the Optimizely Ruby SDK, and experimenting on your own SMS bot with Twilio.
 
-Instructions are given6. Open the 
- as comments in the ```server.rb``` file, but repeated here with additional context and initial setup steps.
+This sample application is setup to make things as easy as possible. All you'll need to do is implement Optimizely, and connect the application to Twilio.
+
+For access to Twilio, see the email this was sent in, or contact @andreas.
+
+Instructions are given as comments in the ```server.rb``` file, but repeated here with additional context and initial setup steps.
 
 When followed closely, this project should take no more than 1-2 hours.
 
@@ -89,7 +92,7 @@ That's it! By now you should have:
 4. Connected your application to Twilio
 5. Pushed your code back to Github
 
-To submit your exercise email a link with Github repo to Zach, Joe or Andreas.
+To submit your exercise email a link with Github repo to Zach, Joe or
 
 
 
